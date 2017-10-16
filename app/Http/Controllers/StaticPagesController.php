@@ -10,7 +10,7 @@ class StaticPagesController extends Controller
         return '主页';
     }
 
-    public function help（）{
+    public function help(){
         return '帮助页';
     }
 
